@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.grid {
+}
+.column {
+  display: flex;
+}
+.row {
+  background: gray;
+  width: 20px;
+  height: 20px;
+}
+.snake {
+  background: red;
+}
+
+.treat {
+  background: yellow;
+}
